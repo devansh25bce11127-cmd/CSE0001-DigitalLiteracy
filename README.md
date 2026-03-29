@@ -144,7 +144,7 @@ among batchmates.
 </ul>
 
 <p>
-<b>Google Form Link:</b> (Add your Google Form link here)
+<b>Google Form Link:</b> (https://forms.gle/QDAR7ronVCHtSdUz6)
 </p>
 
 <hr>
